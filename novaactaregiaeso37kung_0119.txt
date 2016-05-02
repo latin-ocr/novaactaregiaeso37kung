@@ -1,0 +1,36 @@
+INTRODUOTION.
+
+La question: Etant donnee la solution d'un probleme isoperimetrique‚ trou-
+ver les conditions neeessaires 61 suffisantes auxquelles elle doit satisfaire
+pour donner 1111 vrai niaximum ou un vrai minimum⁷ dest-adire, pour 6116
+11116 5011111011 proprement (1116, 651 511115 11111 (101116 1’11116 (165 questions les plus
+diffieiles du 61116111 (165 variations. Aussi attend-elle encore une reponse ge-
+nerale et definitive. Les 16511111115 11160111111615 auxquels 0111 1111111111 jusqu’ici
+les 'travaux sur 66 point, sont d'ailleurs foui-nis par des methodes trop eom-
+pliquees, 66 110115 semble, pour faire partie d'un 601115 616111611111116 (111 6111-
+6111 11161111011116. Voila les inotifs qui nous ont determine a entreprendre
+ici l'exposition d⁷une 11161110(16, a notre avis, plus effective et 111115 511111116.
+
+Pom· donner plus d’homogene'ite a cette exposition, nous avons juge
+116665511116 d'embrasser, 50111111111161116111 61 a titre d'introduction, les autres
+points eardinaux du caleul des 1501161111161165.
+
+Quoique nous 65116110115 arriver par cette methode 11 11116 solution
+generale de la question 1110110566, 110115 110115 110111610115 161 a considerer uni-
+(11161116111 165 1110111611165 (111115 lesquels 011 611616116 165 maxima et les minima
+d'une integrale simple, tout developpement 1111111161 d’une 11160116 derant, 56-
+1011 110115, 60111111611661 par 66 qu’elle a de moins eomplique.
+
+Le 6011161111 general des problemes qui fei-ont l’objet (16 66116 6511111556,
+116111 (10116 6116 1011111116 dans 665 161·11165; ’
+
+Trouver une eourbe (16 telle forme et a de telles limites, que, tout
+611 satisfaisant aux conditions du 111011161116, 6116 fasse prendre a 11116 11116-
+graie dependant de cette forme 61 ayant les memes limites, 11116 valetn-
+maxima ou minima.
+
+Nous 1111111611610115, 110111 commeneer, que les maxima 61 165 minima
+dont il s'agit ne sont point les 111115 grandes ou les plus petites valeurs pos-
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 1
+

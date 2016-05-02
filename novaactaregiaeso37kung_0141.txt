@@ -1,0 +1,51 @@
+1)(6111161101,τ mss ΜΑΧΙΜΑ ET DES mmmm. 23
+
+ρο11116Γ111111166,166 6(111 mons aux limites, qni, avec les equations de condition
+pag-be )et 6, 60111 611 nomb1e suffisant En cffet, les quantites a detor-mium sont,
+011116 166 2η constantes A 6,166 constantes A A, les constantes Δμ, Am,
+et A 1, Les equations aux limites sont au 1101111116 2η -1- 2,166 equations (16
+condition page-5 061 G sont 611 11161116 nombre que les constantes A A et A μ,
+66 (1111 11101116 161101166. Si, 611 emman-‚e 16 defoxmation ne 6’6161](1 point
+aux limites, 011 a, aux points de divergence, les 2η equations
+
+laAy=0 ῘαΔ31’ΞΟυ1Δ9“-1)Ξ
+· (5),
+
+1
+1
+fufio 10‘22120... [1961)- t
+
+qui, avec les equations page 5 et 6, 60111 encore en nombre <igal 6 661111 (166 111-
+6011111166, puisque A w, 61 A θ11, disparaissent en 66 666 611161 (1116 166 constantes
+A μ. 011 voit aisement (1116 dans l'un ou l’autre 666,166 equations sont li-
+11661166 et homogenes par rapport aux inconnues, d'ou il suit qu'il n'y pourra
+generalement pas 611-6 satisfait par des (11161111166 finies autres que Ο. 11 661
+donc clair (1116 leurs coefficients doivent 611-6 soumis 6 11116 661161116 condi-
+tion, pour (1116 6616 611 lieu. Cette condition s'obtient en egalant 6 zero 16
+determinant des memes coesficients.
+
+Il en 16611116 16 regle suivante:
+
+Examinez d’abord le signe de AssSy quand la deformation embrasse
+des parties infiniment petites de la courbe des y. Si vous le trouvez 6011-
+stant, 11161116 avec variation des limites, etendez, 6 partir de l’un des points
+limites, la deformation successivement 6 (166 points de plus en plus eloignes
+jusqu’a l'autre point limite, et faites aussi, si les conditions du probleme 16
+permettent, varier celui-ci de maniere que toute 16 courbe se trouve enfin
+deformee.
+
+S’il n’est pas possible, pendant ce glissement successif du point (16
+divergence de la courbe des η 6111 16 courbe des y, de trouver quelque point
+pour lequel 16 determinant des coefficients du systeme (3) et (4) et du systeme
+(5) soit nul, et que 16 determinant des coefficients du systema (3) et (4) et du
+systeme analogue 6 l’autre limite ne s'evanouisse pas, 16 60111116 (166 y
+donne 1111 vrai maximum ou un vrai minimum.
+
+Si, 611 contraire, l⁷un ou l'autre des deux determinants mentionnes
+rz2n
+
+s'evanouit, A2Sy s⁷evanouit aussi par 16 substitution Ay = ( Ac, ᾏΔΔ) f,
+r: O
+
+puisque 16 fonction A y qui annule A AzSy annule aussi A2Sy, 2 Δ28, 616111
+

@@ -1,0 +1,36 @@
+Dans le Tome XLVIII de l'Archiv pour Mathematiques et Physique de M.
+GRUNERT j’ai publie quelques theoremes sur la realite des raeines d'equa-
+tions alge'zbriques, ἐι l’aide desquels on peut toujours trouver le nombre et
+les places des racines reelles d‘une equation donnee‚ 611 connaissant les
+valeurs des raeines reelles de la derivee. Je me permets d'en reproduire
+ici les cinq premiers, qui seront cites dans la suite.
+
+Τ Ι16ὀ1·. I. Si tontes les moines de l‘e'quation f(cc) = O sont re'elles et
+
+ineyales‚ Zes moines de Z'e'qu. f'(oe) = 0 Ze sont aussi ec situe'es chacune entre
+une paire de celles-ld.
+
+Th. II. Si toutes les racines (16 l'e‘quatz‘on f(x') = O sont re'elles et
+1116ῃαῖ63, les racz’ues de Z‘e'qu. f(‘²) = O 116 Ze sont pas aussi, ὰ moins que tous
+les minima de Za fonction f(r) 116 soient neyatzfs, et tous les maoez'ma positffs.
+Pour chaque maximum ou minimum = O deum racines (16 f(x) = O devien-
+nent ejqales. Pour chaque minimum POSitff ou maximum neyatzf deum moines
+deviennent inzayinaz'res.
+
+Th. III. Si 2111 racines de l'e'qu. f¹(oe) = 0 sont ionayz'naz'res, et les
+
+autres re'elles et impubes, 2m moines de f (cu) = O sont aussi imayiruzz‘res. Les
+autres n—2m sont re'elles et ineyales, si tous Zes maoez'ma (16 f(oe) sont posi.
+tiss, et tous les minima neyatz'fs. Pour chaque maximum ou minimum = O
+
+deum racines deviennent eyaZes. Pour chaque minimum. positg'f ou maximum,
+11 yatff deux moines deviennent imayinaires.
+
+Th. IV. Une racione 2111ῑὲ m = a de Z'e'quation f‘(oe) = O diminue
+le nombre des recines re'elles de f(‘'²²) = O par 2111, (ὶ moins que f(a) 116 soit
+= Ο,- alors (1 est une racina (2111 -1- I)³.'—¹-⁸ de l’e‘qu. f(oe) = O.
+
+Th. V. Une racine (mn—mg x = a (16 Z’e'quatz'on J‘(oe) = θ di-
+minue Ze ‘nombre des racines re'elles de f(m) = O par 2(m—])‚ sz’ f(a) est
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. 1
+

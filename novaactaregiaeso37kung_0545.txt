@@ -1,0 +1,44 @@
+DES RACINES D'EQUATIONS ALGEBRIQUES. 27
+
+ὃς 17.
+
+L’e'quatz'on yrenei-ale du cinqnibme doymi Puisque l⁷emploi (16 notre
+methode n'exige (16 solution d'equatious de plus haut degre que n— 1, 011
+pourrait ἐι l’aide (l’elle (161616111161 165 places (165 16611165 d'une equation quel-
+eonque (111 5³22- degi-e. Les ealculs seraieut pom-tant presque impossibles ἐι
+66666161, vu leur eomplication, 51 l⁷0n ne faisait d'abord disparaitre quelques
+termes (16 l'e'quation proposee.
+
+La celebre me'tliode BRING-JERRARD, moyennaut laquelle 011 peut faire
+evauouir le second, le 1101516616 61 Ie quatrieme terme d'une equation quel-
+conque, 66 56 161556 pas employer pour notre but, puisque 165 606111616615
+(16 l'equation simplifiee, qui doivent 56 (16161161661 (16 11015 6666110115, du
+premier, du second, et du 1101516616 degre respectivement, peuvent devenir
+complexes. Mais 011 ne risque pas cela, si l'on 56 60616616 (16 ne faire
+disparaitre que 16 second 61 16 quatrieme terme, ear 165 eoeffieients de
+l’equation 16(16116 sont alors (165 fonctions (165 16611165 de deux equations,
+dont l'une du premier, l’autre du 1101516616 degne, et l'on peut par suite
+toujours 61101511 (16 161165 solutions que 665 606111616615 (1611666661 16615.
+
+L'equation generale clu einquieme degre peut (10116 6116 16116116 ἐι
+
+2⁵—1Oa2³÷5bz÷k=0 ....... (l),
+
+dans laquelle les quantites a, b, k 50611661165. Νο115 611065 l'examiner sous
+cette forme.
+
+La derivee
+24 --- 66022 -1- b = Ο ......... (2)
+admet 165 16611165
+Ζ = ss Vm ....... (3).
+On a aussi ·
+AY = 2⁴5 605 529 — lOarss eos 33> —†- 5br 605 p -1- lc . . . (4),
+
+61 l'equation (16 la eourbe primaire devient
+
+7⁴⁵ 516 52⁹ — 10ar³sin 32⁹ -†— 5br sinp :O . . . . (5).
+Nous distinguens d'abord trois eas.
+
+1. Toutes les moines de za derive‘e re'elles et ine'yales.
+(Conditionffl 9a² > b > Ο, a > O).
+

@@ -1,0 +1,52 @@
+1108 nmmos D'rsszouA'rloNs ALGEBRIQUES. 15
+
+Si m 081 nombre 1111111111, la 11101110 negative (10 l’axc (108 ιι( 081 une
+(10011-111·1111(·110 d'ordre irnpair. Done 81 χ’(οι) 110 s’evanouit 11118, ‹lcux (108
+111 1 1 1101018-11101008 80111 8111108 8111· l’axe (108 ατ, 81 ,γ’(οι) 01 ιΐ’(”’-Η)(οι) sont
+de signes contraires, mais aucun, 8118 8001 (10 meme signe. Voir le 111001. V.
+
+§8
+
+Rcste encore a examiner le 0118 011 quelqu⁷un (1081101018-11101008 00111-
+plexos (10 la derivce 081 811110 8111· la 00111110 1111001110.
+
+Soit (10110 β une quantite complexe, telle que f'ffl) s'annule, 011118
+11011 β’(β), 01 (1110 108 0001110101οο8 (111 1101111 001·1·0811011(11101 verifient l'equation
+(2, 12). Neue¹ 1111008 10001101· (1110 β 081 1111 1101111 double (10 111 00111110
+111-10111110.
+
+Car soit d’abordfffl) z O. Alors deux 11011118-11101008 complexes (10
+l’equation f(:) = O co‘r'ncidcnt (111118 00 point. Si fffi) 081 positis 01 infini-
+ment petit, 008 deux points-racincs ys’eloignen't infiniment peu du point β,
+011 suivant chacun 811 (10011-1111100110. Si χ’(β) 081 negatif et infinimcnt petit,
+ils s’eloiguent aussi infiniment peu de β, mais sur deux autres (101111-11111001108,
+0111· (ι 011 A' croit 10 long (10 001108-01, (1001011 10 long (10 celles-la.
+
+Done il faut qu’au moins quatre demi-branches (10 111 00111110 s’unis-
+8001 (11108 00 point. Or je (118 que leur nombre 110 110111811111118801 quatre.
+Car s’il 011111 1111181, 11 081 evident que, pour χ’(β) = Ο, β serait une raeine
+triple de l'equatiou ΠΖ) = Ο, 00 qui 081 0001111110 a notre 8011110811100.
+
+Done un 1101111-1110100 complexe simple (10 l’equation derivee, 811110
+801· la courbe primaire, 081 un point double (10 00110-01.
+
+On demontre (10 111 meme maniere qu’un point-racine complexe double
+de l'equation derivee, 811110 8111· 111 00111110 111-10111110, 011 081 1111 point triple,
+et ainsi de suite.
+
+Du reste il s'entend facilcment que (10 1018 points multiples ne peu-
+vent exister que par 11111108, a cause de la symetrie.
+
+On voit (lonc (1110, 81 111 courbe primaire d'une equation f(2) Ξ Ο a l
+une paire (10 tels points 101111111108, 11 081 1011101118 1108811110 (10 01101811 11110 ’
+telle valeur de la constante lc que l'equation admet une paire (10 11101008
+complexes 011111111108. L'ordre de 008 11101008 081 egal au nombre (108 1110001108
+(10 111 courbe qui 1111880111 11111· chacun (108 points cn (1110811011.
+
+Done, s⁷il y a 11011 (10 8011110801· que la courbe primaire d'une equa-
+tion 1110110800 f(z) Ξ O ait (108 11011118 101111111108 00111111οΧ08, on peut proceder
+ainsi pour 108 (1000111111. S⁷il s'agit (10 points (10011108, 011 (111·180111 χ’(ε) par
+le carre (10 1111101110
+
+z²†az—†-b.........(1)‚
+

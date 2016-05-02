@@ -1,0 +1,37 @@
+24 C.-E. LUNDSTR6M,
+
+66 que devient Δ A2Sy en remplaoant A Ay par Ay. Mais si A2Sy peut etre
+annulo sans que A y soit identiquement nul, A2Sy peut ohanger de signe, et
+alors il n'y aura ni maximum ni minimum.
+
+Dans les applicatfflns, il est important d'observer la loi tres-simple
+suivant laquelle se forment les systemes d'equations (3), (4) et (5).
+
+Soit
+y =f(oe‚ ⁶102‚···02n‚7½ >mn-Vn μμ...)
+
+la solution trouvee. Supposons que les limites soient variables, et que y
+doive satisfaire, ainsi que ml et aa„ a un systeme d'equations de condition (16
+la premiere classe, que nous designons par
+
+2ffl=o‚
+
+ἐι un systeme de la seconde classe
+
+Σ<Ιῖἐ =0); Nl} Ξο),
+
+et ὲ un systeme d’equations aux limites
+
+EUZ=oe; 2U2=o.
+
+Dans 66 cas, 16 determinant en question se oompose, quand la de-
+formation embrasse l‘une des limites, mais finit avant l‘autre‚ des 606111-
+cients des systemes suivants
+
+Σ(ὃ8.Γ = ο)
+EMQ'ssoe
+ΣΝἙῙ, =o)
+
+et, quand la deformation embrasse toute la oourbe, y compris les limites,
+des eoeffioients des systemes
+

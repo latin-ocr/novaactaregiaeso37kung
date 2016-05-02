@@ -1,0 +1,43 @@
+DIS'rINC'rION DES MAXIMA ET DES MINIMA. 29
+
+L’equation oi-dessus (1011110 13 relation suivante entre Δ οι, AB et Δ λε
+ε.
+Ι(Δαο111Θ-Δβο009-ΔᾸΘ)ΞΟ ........ (5),
+5
+
+Comptons‚ pour siinplifier, les angles polaires 3 1131111 (111 rayon
+veeteur qui passe 3 l'un des points fixes, (10 1113111010 (1110 91 0011 nul. Cela
+110 changera en rien l’equation (3) 1· = -λ, 01 (4) eonservera la 11101110
+forme. Le determinant qui decide 13 question, sera 31010 forme (100 coef-
+fieients des 0(1113110110 0311311100
+
+Δ181 = Δοιο1ιιθ -1- Δβ(1-00οΘ)--Δ)(Θ = O
+
+0
+
+sm« = Δω-ΔᾸΞ 0
+
+ΓΔνΞΔαοΟο9-1-Δβο1116-Δλ = Ο.
+
+Ce determinant est
+
+11 ‚ 0 , -11
+10009, 01116 , —1=-.
+101119, 1-00οΘ, —Ol
+
+Pour qu'il 0011 11111 011 quelque point, on doit avoir 011 00 point
+
+ῑέᾞῖ
+00 (1111 001 impossible pour tontes les valeurs (10 Θ 001111111000 011110 100 11-
+mites O 01 271. Nous 001101110110 (10110 (1110 10 001010 (1011110 1111 vrai maximum.
+
+Si, negligeant 13 vraie signification de λ, 011 l'avait 113110 comme une
+001101311ῒο (10111100 01 fixe⁷ le determinant 3111311 010
+
+1 , o
+10009, 01ΠΘΙΞο111Θ,
+
+qui devient nul 1011100 100 fois (1110 ἰ > ποῖ . 011 011 3111311 00110111 que le
+eerele ne donne pas dans 00 030 1111 vrai maximum, 00 (1111 001 evidemment
+faux. La conclusion serait vraie, si λ 01311 une constante (10111100 = r,
+

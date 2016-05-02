@@ -1,0 +1,48 @@
+DISTINCTION DES MAXIMA ET DES MINIMA. 17
+
+En effet, chaque terme de
+
+s <Zssy<zj<»²
+
+qui contient en faoteur un produit de la forme AyffiAyffl et qui est une quan-
+tite finie (ce qu’on doit toujours supposer), sera, d'apres ce qui precede,
+numeriquement inferieur a
+
+s<A⁹‘”³³² W a„
+(by(n))2
+
+ 
+
+si meme on l'augmente en remplaeant
+
+Γλψᾌψ) par ΙῖΔψζὈΞ ou par ΙῖΔῃῗῪ,
+
+Ast> et Ayff) etant les plus grandes valeurs numeriques de ΔΨ) et Δψ)
+pendant l’intervalle ως, - (ag¹ — e), en admettant toujours que ε soit assez diminue.
+
+Prenons pour exemple le cas οὺ r et s = n·— 1. D’apres la me-
+
+thode indiquee‚ nous aurens a mettre (Ay({¹*¹))² a la place de ΙῒΔῃΨ-ἣῩ,
+l'indiee marquant la plus grande valeur numerique de &qm-²) pendant l’inter·
+valle oe2 — (6⁶2 —— ε).
+
+Or, comme nous l’avons deja prome,
+
+²² 3² V 32 V Δῃῖη-ι) 2
+s(A y(n))2 (NJ(„‚)2dx est num. > ²((by(⁷'))²)0(——) ‚
+
+ 
+
+ 
+
+et pourra par consequent etre augmente autaut qu’on le voudra relativement
+
+*¹²2
+au terme qui contient l(Ay(⁷⁸-¹>)2. La comparaison avec les termes
+
+s(2 Ay(ra*'' ὃ μην doe÷Aoe2lffdoe(}Xy(>a-y33)f’
+
+donne un resultat semblable, comme nous allons le montrer en nous ap-
+puyant sur ee que y satisfait aux equations page ‘7 et 8.
+Nova Aeta Reg. Soc. So. Ups. Ser. ΠΙ. 3
+

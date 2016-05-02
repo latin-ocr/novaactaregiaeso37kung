@@ -1,0 +1,49 @@
+Des RAonOEs D'li'QUATIONS ALGanQUns. 13
+
+Par chacun des n—3 points—moines 16615 (16 l'equation dex-ivea 11
+passe une branohe transversale. Les brauches dont 165 intel-sections avec
+l'axe des a: sont d’ordre impair, vont aussi s’approeher (16 rayons de tel
+ordre, et inversement. Dono les places des autres n—2 points—raeines (16
+l'equation f(2) = O peuvent 56 (1616111111161 par un raisonnement, analogue ὲ
+celui (1116 110115 avons employe au paragraphe precedent.
+
+Il n’est pas difficile de ἱ(1611611111561 665 1651111615. En examinant tour
+11 tour les eas ou l'equation derivee admet 4, 6, 8... moines complexos,
+on parvient 51 cette proposition:
+
+Si 21η (Ξ n— I) racines de Z'e'quation de‘rz've'e sont compleres, Zes autres
+re'eZZes et ine'yales, Za courbe prinzaz're complexe consiste de m polire-s· de branches
+laterales et de ⁷2—2m—1 branchos transversales. Sur chacune de celles-ld
+il y a toujonrs un seul point-racine complex-e (deo-ive) de l'e'quatz'on f(2) = O.
+
+Si tontes les valenrs de f(:) qui correspondent ana· points-racz'nes re'els
+impairs de la derive'a sont neyatz‘ves, et celles qni correspondent anx points-
+racz'nes pairs, sont positives, les autres n—2nz racines de Z'e'quatz'on f(z) = O
+sont re'elles et alternent avec celles de la de'rz've'e.
+
+Si f(z) s'annule dans un point-raoine re‘eZ de Za derivem deum racines
+de f(z) = O s⁷unissent dans ce point ὰ nne double.
+
+Pour chaque valear positive de f (ε), qui correspond ὰ un point-racine
+re'eZ impair de Za cleb-iude, et pour chaque valeur neyatz've de f(e)‚ correspon-
+dant ὰ un point—racine pair, un point-raeine complexe (propre) de f(z) = 0
+est situe' sur chaque moitie' de Za branche transversale qui passe joar ce point-
+racine de Za de'rz’ve'e.
+
+Cette proposition renferme comme un eas spoeial 16 theoreme ΠΙ
+(16 61-(1655115.
+
+§7-
+
+Soit maintenant z :2 a 11116 11161116 166116 mp=²e de l’equation derivee.
+Puisque alors
+
+f‘(oe) =f”(oe) = . . . =f(''‘)(oc) Ξ Ο ...... (1),
+la formule (4, 1> mentre que g prend au point correspondant la forme
+indeterminee g, et que la eourbe primaire complexe y presente par suite
+
+quelque singularite. Afin de l’examiner (16 plus pres, nous y transportons
+l’origine, en remplaeant Ζ par Η- a. L'eqnation (2, 9) devient alors
+
+a‘zn —†— [νβ-1 -1- 6’Ζ”“’“’ -Ι- . . , -ξ- h'z⁷'¹÷¹ -1- lc' = O . . . . (2),
+

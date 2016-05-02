@@ -1,0 +1,59 @@
+Dls'rmffl‘mN DES ΜΑΧΙΜΑ ET DES MINIMA. 31
+
+La fixit& des ext1·‹3mite's et la longueur donnt'm suffisent pour la (16-
+termination complette (16 3( commo fonction (16 a‘.
+
+Examinons nmintenant, si la solution trouv& donne un vrai maximum.
+321⁷
+
+(3 71⁰⁰? (Stant ici
+
+ 
+
+L'expression
+
+3(†A
+
+(1 ⁷5— w?
+
+il faut, pour l'existence d'uu maximum, qu'on ait touj0urs {sy—j— ῥῷ < O,
+66 qui revient au mssme que y† λ < O, parce que Vl 4- gs*5 entre comme
+une quantit& posiftive dans les integrales du problczme. Cette condition
+
+3! -1- >x < O sera remplie, si οι < O .
+
+ 
+
+ 
+
+Supposons que les dommes du problczme soient telles, qu’elles ad-
+mettent une valeus 1oegative (16 οι. Il reste alors ἐι examines si les autres
+conditions sont remplies.
+
+Pom· cela, nous avons besoin (16 l’expression
+
+bv ay by
+
+Δοι-ν ÷ 2&OE ψ anfi,
+
+qui, en 66 cas, peut s'eierire
+
+Ay=—m÷-{3(y†a—oe21‘>÷00a³ssy‘ ----- (3),
+
+et (16 l’expression correspondante pour Δ1 S1⁷ qui est
+
+Ξ
+
+Ι —Ay—‘gs— dx
+- 7
+
+j Vl *rw
+
+ 
+
+a: (Stant l'abscisse du point οὺ la dssformation finit.
+
+Or la diff6rentiation de (3) donne l’expression (16 Ay'
+
+ΔΤ Ξ-ΔῒέωψψαΔβψ,
+

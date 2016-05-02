@@ -1,0 +1,60 @@
+ons RAcmEs D’EQUATIONS ALGEBRIQUES. 17
+
+que nous designemus, pour abreger, par
+
+(1), (⁶2), (3) ............ (2),
+
+indiquent le nombre des raeines 1661165 (16 l'equation proposse, ainsi que les
+brauohes de la oourbe sur lesquelles sont situes des points-moines complexos.
+
+Pour trouver les places (16 665 points relativement aux rayons d’asymp-
+totes. il faut enfin determines les signes des valeurs de f(z) qui correspon-
+dent aux points d’intersection.
+
+Nous designemus les resultats de la substitution des ooordonnees
+des points ’
+
+a1‚a2,a3‚...; b1‚b2, b3‚... . . . . . (3)
+dans u ou X par
+
+(αι), (se), (⁶¹3)⁷··-3 (ὂι), (62), (ba)⁷··· · - - (4)
+
+respectivement.
+
+ἓ 10.
+
+Nous nous proposons pour premiere application 16 probleme suivant:
+
+EX. 1) Trouver les places des moines de Z'c'quation
+
+{5—522—5224-242÷k=0 ....... (1)
+
+pour des valeurs diverses de lc.
+La derivee
+24—1522—102÷24=0 ....... (2)
+
+admet les raeines reelles
+el=4, 4²2zl, ξ3Ξ-2, e4=—3 . . . . (3)
+
+Dono l’equation proposee n'a pas de racines oomplexes derivees.
+L’e'quation de la courbe primaire est
+νδ Sin 52⁹
+
+5——5r3sin3p—5r²sin2p÷24rsinp=O . . . (4);
+
+ 
+
+sa partie complexe consiste (16 quatre branohes transversales. Pour trouver
+
+71*
+
+ses intersections aveo les rayons A et D, nous saisons p Ξ ἶ dans (4)
+
+et obtenons ainsi:
+
+a = 1‚29347 ‚ d = 2729347 ...... (5).
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. 3
+
+,μ ε-«Α
+

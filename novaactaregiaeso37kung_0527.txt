@@ -1,0 +1,39 @@
+DEs RAcmEs D'EQUATIONS Alcrssssmoosss. 9
+
+que, si la courbe primaire a des points singuliers (autres que (les points
+d’infiexion)‚ il faut qu’ils ooi'ncidcnt avoc les points-moines (lc l'cquation (lerivee.
+
+Mais les coordonnees d'uu point sing-ulier complace devant par suite
+verifier simultanement les trois equations
+
+f'<1v>—[{3.“f<1·>÷ &mm—...- = 0. . - - (17)⁷
+f<oe>-{‘2²f“‘(a2> ψ {ssf‘w——m- =0- - - - (18),
+f¹(22) — ἔργω) ÷ gfv¹(m)—.... = 0 . . . . (19)⁷
+
+une telle coincidence ne peut avoir lieu que par exception. A cause de cela
+nous 'ajournons la discussion (16 66 cas au ξ 8 et supposons dans les pa-
+ragraphes suivants (4-—7) qu’aucun des points-moines complexes de l'equa-
+tion derivee ne soit situe sur la courbe primaIre.
+
+§4
+
+Soit maintenant z = a unc racine reelle et simple de l⁷equation de-
+rivee. Au point correspondant la courbe primaire complexe coupe l'axe des
+ιι* perpendiculastement, car l’equation (2, 12) donne par derivation
+
+dy flos) — ἕνα) ÷ {3wa - - -- (1)
+‘1⁶⁶ {ssf‘sw — ἕνα) ÷ ss-[ssfv11<oe)-... ’
+et, pour ω = a, y {evanouin mais non βψ).-
+
+Un point-racina recl et simple (16 requation derivee est par suite un
+point double (16 la courbe primaire, mais un point simple (16 sa partie
+complexe.
+
+Dans l’equation (2, 12) nous posons maintenant
+a] = οι -ἱ- A* (ὃ infiniment petit) . . . (2)
+et cherchons (16 quel ordre est alors la quantit& infiniment petite ψ.
+De l’egalite
+Μ» ÷ ὃ) -ῗξίωοι ÷ ὃ) ÷ ἵζω ÷ ὃ) —--- = 0 - - - (3)
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. 1].1. 2
+

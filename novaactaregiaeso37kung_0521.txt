@@ -1,0 +1,47 @@
+Dsss RAcmEs D’EQUATIONS ALGEBRIQUES. 3
+
+§L
+
+M. Cauchy definit, comme on 18 sait, les fonctions d‘une variable
+complexe de cette maniere. Soit
+
+z=ae÷yi .......... (1)
+
+11118 quantit& complexe3 si l’on desig-ne par X et Y deux fonctions reelles
+queleonques des variables 1881188 cc et y, la quantite
+
+u = X† Yi ......... (2)
+est 11118 fonction de z.
+
+Nous nous imaginons m et y comme les ooordonnees rectangulaires
+d’un point, situe dans un plan horizontah X et Y comme les coordonnees
+d’un autre point du 11181118 plan. Nous appelons un point queloonque du
+plan 1881 011 complexe, selon qu’il est situe sur l'axe (188 m ou non.
+
+Quand 18 point ε 88 ment sur une eourbe, 18 point u en decrit une
+correspondante. Nous appelons celle-la la courbe primaire‚ celle-ci la se-
+
+condaz're.
+
+Nous posons aussi
+
+z = rem, u = Repe ....... (3);
+gztgoe, Z—}=tgA ....... (4);
+
+αι et A sont par suite les angles que 188 tang-entes des deux courbes for-
+ment avec l'axe (188 x.
+
+La derivee (18 u, prise par rapport ἐι z, est, d’apres la definition de
+M. Cauehy‚ 18 quotient
+
+ 
+
+dX-4- id Y
+‘dm -μ {dy ³
+nous la desig-nens par eessf.
+De la relation
+W. dX-1- idY
+ξθ = (6)
+
+άωῌάῃ ........
+

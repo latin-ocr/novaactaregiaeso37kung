@@ -1,0 +1,50 @@
+12 O. F. E. BJoRLI'NG, SUR LA Sr'sznATIoN
+
+Si tontes les n—I racines de Z'e'quation derivde sont re‘elles et ine'yales,
+Za courbe primaire complere consiste d'autant de ὐφ’-61161163 transversales.
+
+Si tontes les valenrs de f(2) qui correspondent aum poz'nts-racz'nes im-
+paz'rs de la derive'e, sont neyatz'ves‚ et celles qui correspondent aua· points-moines
+pairs, sont posz'tz'ves, tontes les racines de l'e‘quatz'on f(2) = O sont re'elles et
+alternent avec celles de Za de'rz've'e.
+
+Si f(z) s’annule dans nn point-racine de Za ddrivde, deum racines de
+f(z) = O s'unz‘sse-nt dans ce point ὰ une double.
+
+Pour chaque vatem· positive de fle), qui correspond ὰ un point-racine
+impair de Za de'rz've'ffi et pour chaque valeur nesqatz've de f(z)‚ correspondant ὰ
+un point—racz'ne pair, un point-racine complexe de f(2) = O est sitne sur chaque
+nzoz‘tie‘ de Za branche transversale qni passe par ce point—racine de Za de'rz've'e.
+
+S’il ne s'agit que des racines 1661166, 66116 proposition 661 identique
+au theoreme ΙΙ, 16111οᾶ1111 61-(1666116.
+
+§6-
+
+Nous 6111111060116 111611116116111 (1116 deux 16611166 (16 l’equation derivee
+soient complexes‚ les autres n— 3 reelles 61 illegales. La courbe primaire
+complexe coupe l'axe des x dans n—3 points divers, et il y 6 1161 611116
+(16 deux 60166 du meme axe deux rayons d’asymptotes dont les branchos 116 16
+16116011116111 pas. Ces deux branchos doivent donc se raccorder entre elles,
+puisqne la courbe 11⁷a 1166 de point singulier complexe.
+
+Les deux rayons dont 11 s'agit, sont 1166666611611161116011666111116. Car
+s’il n'etait pas ainsi, 16111· 1116116116 6011111111116 60111161611 16 60111116, 66 (1111 (1011-
+ner-ait 11611 {t 1111 1101111 multiple complexe. Donc l⁷un des deux rayons 661
+pair⁷ l⁷autre impair.
+
+Nous appelons 11116 16116 1116116116 (16 16 60111116, qui ne coupe pas
+l'axe des cc, mais qui va d'un cote de lui s'approcher dc deux rayons, dont
+l’un 661 pair, l⁷autre impair, une branche Corterate. A cause de 16 symetrie
+elles existent toujours par paires. Nous en designons 6116611116 par les
+memes lettres que ses deux rayons.
+
+Sur chaque 111-6116116 16161616 11 y a necessairement un seul point-
+1661116. Car 6 l'une (16 666 extreniites u tend vers — 00, 6 l’autre vers -1- 00,
+ct cette variable n'a pas (16 maximum, 111 (16 111111111111111, pendant que z par-
+court toute 16 111-6116116.
+
+Ι)6116 16 666 161 suppose l⁷equati0n fta) z O a (10116 toujours 611 11101116
+deux 11011116-16611166 complexos, 6111166 chacun sur 66 1116116116 16161616. Ces
+racines sont evidemment cle'rz'vees.
+

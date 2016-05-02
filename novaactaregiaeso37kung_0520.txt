@@ -1,0 +1,40 @@
+2 O. F. E. 1310611116, SUR LA-SEPARATION
+
+un mamz'mum positis ou zm 'minimum neyatif, et par 2m, si f(a) est un mi-
+nimum positis ou un maximum neyatff. Si f(a) est = O, a est ame racina
+
+2772& de l’e'qu. f(oe) = 0.
+
+Ces the'oremes font entrevoir que les racines complexes d'une equa-
+tion alge’brique sont en general de deux 68116068 differentes. Les unes, que
+je veux appeler racines eomplexes ds'riva‘es, doivent leur existence a la na-
+ture meme (16 16 fonction f(oe) 011, 81 1’011 veut⁷ 6 16 forme dela eourbe qui
+la represente geometriquement3 leur nombre est egal a celui des raeines
+complexes de l'equation dei·ivee et ne change point, quelle que soit la va-
+16111 (16 16 constante, aJ'outee a l'integration. Les autres dependent au con-
+traire de cette eonstante; en choisissant des valeurs convenables de celle-
+01, 011 peut arbitrairement augmentes 011 (111111111161 16111 nombre entre de 061-
+1611168 limites. Je propose pour elles 16 denominatim] de 16011168 complexes
+propre-3.
+
+Quoique les theoremes precedents puissent s'employer avec avantage
+en quelques eas speeiaux, leur application est naturellement tres-limitee.
+Mais leur 11116161 s'accroit beaucoup, depuis qu'il s’est 111011116 qu'ils 116 80111
+en effet que des specialites de quelques 6111168, a l⁷aide desquels on peut
+en general trouver les places de toutes les 16011168, complexes ainsi que
+1661168, d'une equation alge'brique du degre η, 611 00111161886111 seulement les
+valeurs des 16011168 1661168 (16 16 derivee et peut-etre celles de quelques
+autres equations7 dont le degre ne surpasse pas 11-3.
+
+Oe sont ces derniers 111601611168 (1111 forment 16 sujet du memoire sui-
+vant. La methode que j'y vais proposes pour 16 separation des 16011168
+d'une equation (10111166, 86 161886 611881 employer avec quelques modifications
+au 068, ou les eoe'fficients (16 06116 equation sont complexes, mais pour eviter
+de complication, J'e ne m’occuperai ici que d’equations 6 0061116161118 16618.
+
+La demonstration des 111601611168, 161)10(111118 01-(1688118, 86 fonde sur
+la signification geometrique de 16 (1611166 d'une fonction 166116. Ceux qui
+vont suivre, ont de meme 616 obtenus moyennant deux propositions sur la
+signification geometrique de la derivee d'une fonction complexe. Je vais
+d'abord exposer celles-ei.
+
